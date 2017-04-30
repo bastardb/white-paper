@@ -1,12 +1,11 @@
-name: White Paper
+name: BastarDB Blog
 description: >
-    A simple jekyll theme aimed at programmers who like clean interface to write posts
-    and show off some code.
+    The fastest, most robust, most scalable and most flexible database on Earth!
 about: >
-    At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+    BastarDB is the NoSQL document store that uses the storage engine known as The Filesystem. This storage engine has been used since the dawn of computer era and in its current state provides the cleanest and fastest way to work with large datasets of any imaginable type.
 
 
-url: "http://vinitkumar.me/white-paper"
+url: "https://bastardb.github.com/white-paper"
 baseurl: "/white-paper" 
 markdown: kramdown
 highlighter: rouge
